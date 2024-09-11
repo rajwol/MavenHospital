@@ -17,7 +17,7 @@ FROM encounters
 GROUP BY YEAR(start)
 ORDER BY Year
 
---Male vs Female Average LOS (Hours)
+--Male & Female Average LOS (Hours)
 SELECT p.gender, ROUND(AVG(CAST(DATEDIFF(HOUR,start,stop) AS FLOAT)),2) as AverageLOS
 FROM encounters e
 LEFT JOIN patients p ON e.patient = p.id
