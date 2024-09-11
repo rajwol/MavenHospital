@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-This project focuses on analyzing synthetic data from Massachusetts General Hospital, encompassing records of approximately 1,000 patients from the years 2011 to 2022. The dataset was cleaned using Excel and queries were created using SQL Server Management Studio (SSMS). The dataset includes detailed information on patient demographics, insurance coverage, and medical encounters & procedures. The primary objective is to leverage SQL to extract meaningful insights from the data, which could inform decision-making processes in healthcare management and policy.
+This project focuses on analyzing synthetic data from Massachusetts General Hospital, encompassing records of approximately 1,000 patients from the years 2011 to 2022. The dataset was cleaned using Microsoft Excel and queries were extracted using SQL Server Management Studio (SSMS). The dataset includes detailed information on patient demographics, insurance coverage, and medical encounters & procedures. The primary objective is to leverage SQL to extract meaningful insights from the data, which could inform decision-making processes in healthcare management and policy.
 
 ## **Dataset Description**
 
