@@ -3,7 +3,7 @@ SELECT FORMAT(SUM(total_claim_cost),'N2') AS Total
 FROM encounters
 
 --Revenue broken down by year
-select YEAR(start) as Year, FORMAT(SUM(total_claim_cost), 'N2') as Revenue
+SELECT YEAR(start) AS Year, FORMAT(SUM(total_claim_cost), 'N2') AS Revenue
 FROM encounters
 GROUP BY YEAR(start)
 ORDER BY 1 
