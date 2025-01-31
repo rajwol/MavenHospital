@@ -43,7 +43,7 @@ The repository includes a series of SQL scripts designed to:
 
 ## **Analysis**
 
-1. **Readmittance rate**: A high readmittance rate (87.68%) indicates a lack of treatment quality and a need for better post-discharge care and follow-up
+1. **Readmittance rate**: A high readmittance rate (45%) for inpatients indicates a lack of treatment quality and a need for better post-discharge care and follow-up
 
 2. **Uninsured Patients**: The hospital saw 8807 encounters with No Insurance, emphasizing to management on the need to reduce higher costs for uninsured patients.
 
